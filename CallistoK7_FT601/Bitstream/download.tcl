@@ -1,0 +1,2 @@
+connect
+fpga ft601_callisto_k7_160t.bit
